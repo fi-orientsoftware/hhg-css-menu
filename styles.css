@@ -30,17 +30,6 @@
   opacity: .7;
 }
 
-.dash {
-  width: 70%;
-  height: 4px;
-  border-radius: 10px;
-  background-color: #000;
-
-  &:first-of-type {
-    margin-bottom: 2px;
-  }
-}
-
 .menu-container {
   margin: 20px 50px;
   overflow: hidden;
